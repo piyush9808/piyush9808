@@ -6,5 +6,5 @@
 Languages-
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cpp,css,figma,git,js,materialui,mongodb,nextjs,react,tailwind,threejs,ts,vite,)](https://skillicons.dev)
 
