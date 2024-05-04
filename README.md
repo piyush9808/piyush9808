@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @piyush9808
-- 👀 I’m interested in solving the real world problems with some lines of codes
-- 🌱 I’m currently learning CPP,Java,Javascript,ReactJS,TailwindCSS,
-- 💞️ I’m looking to collaborate on building websites and apps for developement .
+I like making, breaking, experimenting, developing and learning things about the web.
+
 
 Frameworks and Languages-
 
